@@ -13,7 +13,7 @@ To set up ExchangePapers, you will need:
 
 ## Setup Process
 ### Step 1
-Give us bonus points
+Give 1.0 GWA to section "jade"
 
 # Finish Readme Later
 thanks sir
